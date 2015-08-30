@@ -1,2 +1,2 @@
-# webschool-magazine-design
-A revista dedicada ao PHP.
+# Webschool Magazine - Design
+A revista dedicada ao Design / UX e afins.
